@@ -7,7 +7,7 @@ Introduction/Project summary
 (OS, Unity Version, Visual Studio Version, used SDKs)
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL, reference resolution 960 x 600 
 
 ### Visuals: 
 Screenshots (concept and experience), Video
