@@ -1,4 +1,4 @@
-# Unity2019114f1-2D-Template
+# WebGL-Testing-RepoAndHosting
 
 ### Project description: 
 Introduction/Project summary 
